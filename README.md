@@ -8,27 +8,6 @@ This project is part of the NullClass Internship Program. It implements a real-t
 
 ---
 
-## 📂 Project Structure
-
-Task_2_Attendance_System/
-├── capture_faces.py # Script to collect face images per student
-├── real_time_attendance.py # Main attendance system script
-├── face_classifier.pkl # Trained SVM face classifier
-├── label_encoder.pkl # Label encoder for student names
-├── requirements.txt
-├── model/
-│ ├── model_a1.json # Emotion detection model architecture
-│ └── model_weights1.h5 # Emotion detection model weights
-├── dataset/
-│ ├── Aryan Jha/
-│ │ ├── 1.jpg, 2.jpg, ...
-│ ├── Priya Sharma/
-│ │ ├── 1.jpg, 2.jpg, ...
-├── output/
-│ └── attendance.csv # Auto-generated log file
-
----
-
 ## 🛠️ How to Run
 
 ### 1. 📸 Collect Student Face Images
